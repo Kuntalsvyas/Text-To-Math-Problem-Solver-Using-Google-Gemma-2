@@ -37,7 +37,9 @@ This project uses Google’s Gemma 2 model to interpret math problems written in
 
 # 🖥️ How to Use
 **1 Enter your Groq API Key in the sidebar.**
+
 **2 Type a math problem in plain English (e.g., What is the sum of 235 and 478?).**
+
 **3 The app will:**
 - Parse the problem
 - Show step-by-step reasoning
